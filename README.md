@@ -6,8 +6,6 @@
 The plugin works on polygon triangulation.Я
 
 BUGS.
-1.In rare cases of a non-convex polygon, minor deviations may occur. While the plug is being solved, I will correct it when I finish the plugin.
-
-2. Most likely, I use a slightly incorrect formula to determine the random point, so in the case of the simplest shapes, the points given out will tend to the corner (although I'm not sure).
+1. Most likely, I use a slightly incorrect formula to determine the random point, so in the case of the simplest shapes, the points given out will tend to the corner (although I'm not sure).
 
 Protected by MIT.
